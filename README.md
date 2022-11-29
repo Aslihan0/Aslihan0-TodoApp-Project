@@ -53,5 +53,5 @@ Example: `  docker build . -t  aslihan7/docker-project:tagname
 
 Run Docker image locally on a container with a name for the container.
 
-` sudo docker run -dp 8080:8080 --name todoapp todoapp/asli
+` sudo docker run -dp 8080:8080 --name  aslihan7/docker-project
 `
