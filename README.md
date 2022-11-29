@@ -11,8 +11,10 @@
 - [x] Dockerized and published on Docker Hub
 
 ![Screenshot from 2022-11-29 14-04-45](https://user-images.githubusercontent.com/73489259/204528122-a94b7de2-54fd-4a57-9f77-4fe4676a6e29.png)
+![Screenshot from 2022-11-29 14-04-58](https://user-images.githubusercontent.com/73489259/204528335-48938698-6814-4257-8f2b-920555697fd4.png)
 
 
+![Screenshot from 2022-11-29 15-12-41](https://user-images.githubusercontent.com/73489259/204528246-76379a2e-77ad-4731-9ff6-b9b21e19b0da.png)
 
 
 ## Test Application
