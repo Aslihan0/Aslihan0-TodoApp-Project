@@ -51,7 +51,4 @@ Link: https://hub.docker.com/repository/docker/aslihan7/docker-project
 Example: `  docker build . -t  aslihan7/docker-project:tagname
 `
 
-Run Docker image locally on a container with a name for the container.
 
-` sudo docker run -dp 8080:8080 --name  aslihan7/docker-project
-`
